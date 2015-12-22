@@ -1,10 +1,11 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE>
+<html  xmlns="http://www.w3.org/1999/xhtml"
+       xmlns:th="http://www.thymeleaf.org">
 <head>
     <title>Getting Started: Serving Web Content</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-    <p> fdp </p>
+<p> Coucou espece de fils de pute </p>
 </body>
 </html>
